@@ -8,3 +8,4 @@ Downfall is that I won't be able put movies in watchlist with my phone, but wtv.
 This will be made using golang, I'll incorporate sqlite3 as backend db to keep it locally and to keep it simple. I'll also make CLI using Cobra. This way I'll learn some new things.
 
 This is a pet project. IDK if I'll ever complete this, but I'm excited.
+Also, I setup nvim completely so this better work
